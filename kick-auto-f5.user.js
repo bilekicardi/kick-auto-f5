@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kick Auto F5 Pro 
 // @namespace    http://tampermonkey.net/
-// @version      15.5.2
+// @version      15.5.3
 // @description  Admin Onay/Red + Beyaz Liste + AI Oto-Onay + Özel Kelime + Timeout (Admin + Açıklama) + Reactions + Last Seen + Profanity Filter + Daily Streak + Read Receipts + Timeout Autocomplete + Call Volume Ducking + Emoji Sistemi KALDIRILDI
 // @author       Sen
 // @match        https://kick.com/*
